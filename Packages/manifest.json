@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "com.unity.ide.rider": "3.0.5",
+    "com.unity.ide.visualstudio": "2.0.7",
+    "com.unity.inputsystem": "1.1.0-preview.3",
+    "com.unity.ml-agents": "2.0.0-exp.1",
+    "com.unity.ml-agents.extensions": "file:D:/UNI/2021_SoSe/Intelligente Systeme/Unity/ml-agents/com.unity.ml-agents.extensions",
+    "com.unity.nuget.newtonsoft-json": "2.0.0",
+    "com.unity.test-framework": "1.1.24",
+    "com.unity.toolchain.macos-x86_64-linux-x86_64": "0.1.20-preview",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.unityanalytics": "1.0.0"
+  },
+  "testables": [
+    "com.unity.ml-agents",
+    "com.unity.ml-agents.extensions",
+    "com.unity.inputsystem"
+  ]
+}
