@@ -1,9 +1,8 @@
 # AT-ST Walker Machine Learning Agent using Unity ML-Agents
-## Unity Version
+## Technical details
 Please use following Unity-Version:
-| Version |
-| ------ |
-| 2020.3.7f1 |
+- Unity Version
+  - 2020.3.7f1
 ## ML-Agents Set-up
 ### Compatible Versions
 
