@@ -1,4 +1,4 @@
-# AT-ST Walker Machine Learning Agent using Unity ML-Agents
+# AT-ST Walker using Unity ML-Agents
 ## About the project
 This machine learning agent (reinforcement learning agent) was developed for the *Intelligent Systems* module of the University of Applied Sciences Duesseldorf, Germany.
 - Find the **full agent concept**
@@ -57,6 +57,8 @@ Source-Files: [https://github.com/Unity-Technologies/ml-agents/tree/release_17](
     - `pip3 install torch -f https://download.pytorch.org/whl/torch_stable.html` to download PyTorch.
 
 ## Results
+### First (buggy) test
 ![AT-ST Walker agent](https://www.juliancatnip.de/images/at-st_walker/04.gif)
 *This is not the final result, just the output after the first incorrect test run and I love it*
+### Final result: Youtube Video
 [![Youtube Video of the walking AT-ST Walker Agent](https://img.youtube.com/vi/JQzt69A6v3s/0.jpg)](https://www.youtube.com/watch?v=JQzt69A6v3s)
