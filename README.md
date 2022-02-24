@@ -3,6 +3,10 @@
 - Find the **full agent concept**
   - in German (original): <a target="_blank" href="https://www.juliancatnip.de/documents/at-st_walker/ATST-Walker_Konzept.pdf" title="ML Agent Concept in German">ATST-Walker_Konzept.pdf</a>
   - in English (DeepL translated): <a target="_blank" href="https://www.juliancatnip.de/documents/at-st_walker/ATST-Walker_Concept_EN.pdf" title="ML Agent Concept in English">ATST-Walker_Concept_EN.pdf</a>
+
+- Find the **full agent documentation**
+  - in German (original): <a target="_blank" href="https://www.juliancatnip.de/documents/at-st_walker/ATST-Walker_Doku.pdf" title="ML Agent Documentation in German">ATST-Walker_Doku.pdf</a>
+  - in English (DeepL translated): <a target="_blank" href="https://www.juliancatnip.de/documents/at-st_walker/ATST-Walker_Documentation_EN.pdf" title="ML Agent Documentation in English">ATST-Walker_Documentation_EN.pdf</a>
 ## Technical details
 - Unity Version
   - 2020.3.7f1
