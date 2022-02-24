@@ -1,4 +1,5 @@
 # AT-ST Walker Machine Learning Agent using Unity ML-Agents
+![AT-ST Walker agent](https://www.juliancatnip.de/images/at-st_walker/04.gif)
 ## Unity Version
 Please use following Unity-Version:
 | Version |
