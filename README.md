@@ -1,8 +1,4 @@
 # AT-ST Walker Machine Learning Agent using Unity ML-Agents
-![AT-ST Walker agent](https://www.juliancatnip.de/images/at-st_walker/04.gif)
-*This is not the final result, just the output after the first incorrect test run and I love it*
-
-[![Youtube Video of the walking AT-ST Walker Agent](https://img.youtube.com/vi/JQzt69A6v3s/0.jpg)](https://www.youtube.com/watch?v=JQzt69A6v3s)
 ## Unity Version
 Please use following Unity-Version:
 | Version |
@@ -42,3 +38,8 @@ Source-Files: [https://github.com/Unity-Technologies/ml-agents/tree/release_17](
 - In your Python env use 
     - `python -m pip install mlagents==0.26.0` to install the correct ML-Agents version, and 
     - `pip3 install torch -f https://download.pytorch.org/whl/torch_stable.html` to download PyTorch.
+
+## Results
+![AT-ST Walker agent](https://www.juliancatnip.de/images/at-st_walker/04.gif)
+*This is not the final result, just the output after the first incorrect test run and I love it*
+[![Youtube Video of the walking AT-ST Walker Agent](https://img.youtube.com/vi/JQzt69A6v3s/0.jpg)](https://www.youtube.com/watch?v=JQzt69A6v3s)
