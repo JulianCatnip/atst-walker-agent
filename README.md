@@ -1,4 +1,4 @@
-# AT-ST Walker Project Guide
+# AT-ST Walker Project Guide for Unity
 ## Unity Version
 Please use following Unity-Version:
 | Version |
