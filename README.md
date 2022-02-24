@@ -1,8 +1,21 @@
 # AT-ST Walker Machine Learning Agent using Unity ML-Agents
+## About the project
+- Find the **full agent concept**
+  - in German (original): <a target="_blank" href="https://www.juliancatnip.de/documents/at-st_walker/ATST-Walker_Konzept.pdf" title="ML Agent Concept in German">ATST-Walker_Konzept.pdf</a>
+  - in English (DeepL translated): <a target="_blank" href="https://www.juliancatnip.de/documents/at-st_walker/ATST-Walker_Concept_EN.pdf" title="ML Agent Concept in English">ATST-Walker_Concept_EN.pdf</a>
 ## Technical details
-Please use following Unity-Version:
 - Unity Version
   - 2020.3.7f1
+
+- Required packages
+  - ML Agents (2.0.0-exp.1)
+  - ML Agents Extensions (0.4.0-preview)
+
+- Project repository
+  - Assets/
+    - **AT-ST_Walker/**
+    - ML-Agents/
+
 ## ML-Agents Set-up
 ### Compatible Versions
 
