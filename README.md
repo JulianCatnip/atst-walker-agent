@@ -1,4 +1,4 @@
-# AT-ST Walker Project Guide for Unity
+# AT-ST Walker Machine Learning Agent using Unity ML-Agents
 ## Unity Version
 Please use following Unity-Version:
 | Version |
