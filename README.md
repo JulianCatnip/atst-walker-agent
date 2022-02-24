@@ -2,8 +2,6 @@
 ![AT-ST Walker agent](https://www.juliancatnip.de/images/at-st_walker/04.gif)
 *This is not the final result, just the output after the first incorrect test run and I love it*
 
-Final result:
-
 [![Youtube Video of the walking AT-ST Walker Agent](https://img.youtube.com/vi/JQzt69A6v3s/0.jpg)](https://www.youtube.com/watch?v=JQzt69A6v3s)
 ## Unity Version
 Please use following Unity-Version:
