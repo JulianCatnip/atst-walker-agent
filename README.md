@@ -1,4 +1,4 @@
-# AT-ST Walker using Unity ML-Agents
+# AT-ST Walker Agent using Unity ML-Agents
 ## About the project
 This machine learning agent (reinforcement learning agent) was developed for the *Intelligent Systems* module of the University of Applied Sciences Duesseldorf, Germany.
 - Find the **full agent concept**
